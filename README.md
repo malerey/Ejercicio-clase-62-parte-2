@@ -2,6 +2,8 @@
 
 - Al igual que hicimos con la seccion "Our clients", ahora vamos a reproducir la seccion "Services" del TP1, pero esta vez usando JavaScript. 
 
+https://newbiz-master-uqgespkghu.now.sh/
+
 - En el archivo main.js hay un array de objetos que corresponden con las tarjetas de la seccion Services. La idea es recorrer el array y, usando la propiedad innerHTML, agregar cada tarjeta a nuestra web. 
 
 - Es obligatorio que inserten los iconos. Para ello deberan seguir las indicaciones
